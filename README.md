@@ -6,7 +6,7 @@
 
 A comprehensive repository for Honkai Impact 3rd game data, character information, damage calculators, team builders, and community resources.
 
-## 🎮 Features
+## Features
 
 - **Character Database**: Complete character information including stats, skills, and rankings
 - **Weapon & Stigmata System**: Full catalog with set bonuses and synergies
@@ -15,7 +15,7 @@ A comprehensive repository for Honkai Impact 3rd game data, character informatio
 - **Game Modes Guide**: Strategies for Memorial Arena, Abyss, and Elysian Realm
 - **Community Tier Lists**: Up-to-date rankings for various content
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 honkai-impact-3rd-repo/
@@ -31,7 +31,7 @@ honkai-impact-3rd-repo/
 └── tests/                 # Unit tests
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 
