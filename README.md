@@ -1,7 +1,7 @@
 # Honkai Impact 3rd - Community Repository
 
 ![Honkai Impact 3rd](https://img.shields.io/badge/Honkai%20Impact%203rd-Community%20Project-ff69b4)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![License](https://img.shields.io/badge/license-APACHE-blue)
 ![Version](https://img.shields.io/badge/version-7.9-orange)
 
 A comprehensive repository for Honkai Impact 3rd game data, character information, damage calculators, team builders, and community resources.
